@@ -1,5 +1,5 @@
 <?php
-define('THINK_PATH','../ThinkPHP/');
+define('THINK_PATH','./ThinkPHP/');
 define('APP_PATH','./Thinkshop/');
 define('APP_NAME','Thinkshop');
 define('APP_DEBUG',true);
