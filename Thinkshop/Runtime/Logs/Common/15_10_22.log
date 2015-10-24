@@ -1,0 +1,7 @@
+[ 2015-10-22T20:43:41+08:00 ] 127.0.0.1 /thinkphp/thinkshop/index.php/view/admin/images/sort_desc.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000665s ]
+ERR: 无法加载模块:View
+
+
